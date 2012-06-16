@@ -1,2 +1,4 @@
-Test-Phonegap-App
+Test Phonegap App
 =================
+
+Aplicacion de prueba para PhoneGap
